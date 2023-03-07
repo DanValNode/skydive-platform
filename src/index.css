@@ -1,0 +1,18 @@
+body {
+
+}
+
+.modal-backdrop { opacity: 0 !important; display: none }
+
+.modal {
+    margin-top: 5%;
+}
+
+
+.shop-item {
+    min-height: 440px;
+}
+
+.ml-1 {
+    margin-left: 10px;
+}

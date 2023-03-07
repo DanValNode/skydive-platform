@@ -1,0 +1,638 @@
+{
+  "emergencies": [
+    {
+      "identifier": 1,
+      "mainImage": "assets/images/emergencies/hard-pull.jpg",
+      "images": [
+        "assets/images/emergencies/hard-pull.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/LtQ6aW4v38w"
+      ],
+      "text": "Durante esta malfunción el problema es que no podemos halar la manija y desplegar el paracaídas en un primer intento e incluso en intentos posteriores, por ende seguimos volando a velocidad terminal, lo que se debe hacer en este caso es validar que se está halando del lugar correcto llevando la mano hasta el fondo del contenedor y en caso de que siga atascado realizar el procedimiento de emergencia. <b>Nota: ¡No sacrifique altura!</b>",
+      "title": "Pilotillo atascado o manija dura (Hard pull)",
+      "type": "high-speed"
+    },
+    {
+      "identifier": 2,
+      "mainImage": "assets/images/emergencies/pilotchut-in-tow.jpg",
+      "images": [
+        "assets/images/emergencies/pilotchut-in-tow.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/kWV3ff37T8M"
+      ],
+      "text": "Esta malfunción se produce cuando el pilotillo sale sin problemas del BOC pero falla en desplegar el paracaídas principal, en este caso se sigue cayendo a velocidad terminal, en este caso no hay mucho que se pueda hacer excepto realizar el procedimiento de emergencia espearndo que no haya un enredo entre el pilotillo del principal y la reserva",
+      "title": "Pilotillo remolcado (Pilot chut in tow)",
+      "type": "high-speed"
+    },
+    {
+      "identifier": 3,
+      "mainImage": "assets/images/emergencies/pilotchute-out.jpg",
+      "images": [
+        "assets/images/emergencies/pilotchute-out.jpg",
+        "assets/images/emergencies/pilotchute-out-2.jpg",
+        "assets/images/emergencies/pilotchute-out-3.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/vF0IwAkeEY4",
+        "https://www.youtube.com/embed/JR9LiByq2d0",
+        "https://www.youtube.com/embed/F-byXmd24Jw"
+      ],
+      "text": "En este caso agarra el pilotillo y grita <b>*pilotillo fuera*</b> evitando que la persona se acerque a la puerta, o alejandose de la puerta si es tu pilotillo, inmediatamente se debe cerrar la puerta y la persona con el pilotillo fuera debe hacerse lo más lejos posible de la puerta. Esta persona no debe saltar. <br/> <br/> En caso de que el pilotillo este fuera de la puerta siguelo y revisa la cupula, si el pilotillo es de otra persona saliendo por la puerta y no se ha dado cuenta empujalo hacia afuera",
+      "title": "Pilotillo suelto en el avión",
+      "type": "plane"
+    },
+    {
+      "identifier": 4,
+      "mainImage": "assets/images/emergencies/canopy-out.jpg",
+      "images": [
+        "assets/images/emergencies/canopy-out.jpg",
+        "assets/images/emergencies/canopy-out-2.jpg",
+        "assets/images/emergencies/canopy-out-3.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/oK6d1hFzaPw",
+        "https://www.youtube.com/embed/BZgYlpYDIPw",
+        "https://www.youtube.com/embed/94q0DxLnex0"
+      ],
+      "text": "Si una de las cupulas sale por la puerta del avión siguela de inmediato y chequea la cupula. <br/> <br/> En caso de que sea la cupula de otra persona empujalo hacia afuera, hay que actuar rapidamente ya que la cupula podría actuar como un ancla tirando de un costado del avión pudiendo causar daños en la aeronave. <br /> <br /> Si tu cupula se engancha al avión realiza el procedimiento de emergencia, <b>libera y abre la reserva!</b>",
+      "title": "Bolsa/Cupula saliendo del avión",
+      "type": "plane"
+    },
+    {
+      "identifier": 5,
+      "mainImage": "assets/images/emergencies/canopy-grip.jpg",
+      "images": [
+        "assets/images/emergencies/canopy-grip.jpg",
+        "assets/images/emergencies/canopy-grip-2.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/DKnvtnR-XgI",
+        "https://www.youtube.com/embed/vgkqD48CmeA"
+      ],
+      "text": "Si tu cupula sale de la aeronave y abre sin problemas vuela con tu campana normalmente, si viste que salio un paracaidista y una cupula se abrio prematuramente informa al piloto para que avisen que hay un paracaidista a gran altura",
+      "title": "Apertura prematura en la salida",
+      "type": "plane"
+    },
+    {
+      "identifier": 6,
+      "mainImage": "assets/images/emergencies/plane-emergency.jpg",
+      "images": [
+        "assets/images/emergencies/plane-emergency.jpg",
+        "assets/images/emergencies/plane-emergency-2.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/pLI1f85wDQs",
+        "https://www.youtube.com/embed/kLuyuGZoOPA"
+      ],
+      "text": "Si permaneces dentro del avión adopta la posición para un aterrizaje de emergencia; levanta las rodillas dobla la cabeza hacia abajo, dobla las manos sobre la nuca y mantén la cabeza hacia abajo para resistir el latigazo cervical. Debes tener el casco bien puesto y el cinturón abrochado. <br /> Cuando el avión se detenga abre la puerta y para salir rapidamente, alejate del avión, siempre hay peligro de incendio, la alas suelen llevar el combustible. <br/><br/> En caso de tener que realizar una salida de emergencia, intenta mantener el equilibrio hay que saltar uno por uno del avión sin validar separación después de 3 segundos abre el paracaidas (siempre chequeando altura) mantente lo más lejos posible del aeronave y mantente atento de otras cupulas en el aire",
+      "title": "Problemas con el avión",
+      "type": "plane"
+    },
+    {
+      "identifier": 7,
+      "mainImage": "assets/images/emergencies/total-malfunction.jpg",
+      "images": [
+        "assets/images/emergencies/total-malfunction.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/WIkkLqSxHTE"
+      ],
+      "text": "En esta malfuncion el pilotillo está perdido, para localizarlo se debe pasar la mano por debajo y hacia fuera del contenedor, y realizar máximo 2 intentos, en caso de no tener exito realizar el procedimiento de emergencia o únicamente abrir la reserva directamente",
+      "title": "Malfunción total (Total Malfunction)",
+      "type": "high-speed"
+    },
+    {
+      "identifier": 8,
+      "mainImage": "assets/images/emergencies/baglock.jpg",
+      "images": [
+        "assets/images/emergencies/baglock.jpg",
+        "assets/images/emergencies/baglock-2.jpg",
+        "assets/images/emergencies/baglock-3.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/aA0ABW530BI",
+        "https://www.youtube.com/embed/jliRO3OIyPU",
+        "https://www.youtube.com/embed/dTE7bo_Kv2M"
+      ],
+      "text": "Esta mal función se produce cuando hay un enredo en la bolsa y esta se mantiene cerrada, debido a esto vamos a perder altura bastante rapido, la solución para ello es realizar inmediatamente el <b>procedimiento de emergencia</b>",
+      "title": "Bolsa cerrada (Baglock)",
+      "type": "high-speed"
+    },
+    {
+      "identifier": 9,
+      "mainImage": "assets/images/emergencies/streamer.jpg",
+      "images": [
+        "assets/images/emergencies/streamer.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/a-jqWFFSHDE"
+      ],
+      "text": "Esta mal función ocurre cuando el paracaidas sale de su bolsa pero falla su apertura, al momento de realizar el chequeo de la cupula no está rectangular ni se logra distinguir el slider, en este caso no tenemos nada sustentandonos y continuamos cayendo a gran velocidad, la solución es realizar inmediatamente el <b> procedimiento de emergencia (libera el principal y abre el paracaidas de reserva)</b>",
+      "title": "Serpentina (Streamer)",
+      "type": "high-speed"
+    },
+    {
+      "identifier": 10,
+      "mainImage": "assets/images/emergencies/horseshoe.jpg",
+      "images": [
+        "assets/images/emergencies/horseshoe.jpg",
+        "assets/images/emergencies/horseshoe-2.jpg",
+        "assets/images/emergencies/horseshoe-3.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/_o19ctFjCY4",
+        "https://www.youtube.com/embed/_faE9H3vwKk",
+        "https://www.youtube.com/embed/UlP9i033maw"
+      ],
+      "text": "Una herradura puede ser provocada por una apertura inestable o la apertura imprevista del contendedor principal sin haber halado el pilotillo. <br /><br /> En caso de tener el pilotillo en su lugar primero arrojarlo para ver si esto provoca una apertura normal, de lo contrario realizar el procedimiento de emergencia. <br /><br /> En caso de tenerlo enredado en alguna extremidad intentar desenredarlo pero si luego de un segundo intento no funciona realizar el procedimiento de emergencia inmediatamente.",
+      "title": "Herradura de caballo (Horseshoe)",
+      "type": "high-speed"
+    },
+    {
+      "identifier": 11,
+      "mainImage": "assets/images/emergencies/total-malfunction-bubble.jpg",
+      "images": [
+        "assets/images/emergencies/total-malfunction-bubble.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/15qn5a3NhJE"
+      ],
+      "text": "Se produce porque no se arroja con suficiente fuerza o con el angulo correcto y este se queda en la burbuja de aire provocada por el rozamiento de nuestro cuerpo con el aire, para solucionar esta malfunción gira el pecho mientras miras por encima del hombro para permitir el paso de aire hacia el pilotillo, realizar 2 intentos y si no funciona realizar el procedimiento de emergencia",
+      "title": "Pilotillo en burbuja o pilotillo perezoso",
+      "type": "high-speed"
+    },
+    {
+      "identifier": 12,
+      "mainImage": "assets/images/emergencies/well-canopy.jpg",
+      "images": [
+        "assets/images/emergencies/well-canopy.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/0xuVtrUmQLY"
+      ],
+      "text": "Para identificar que tienes una cupula en buen estado y volable debes tener en cuenta varias cosas, está ahí, tiene forma rectangular, el tamaño es adecuado, slider a mitad de camino o más abajo, no hay giros y realizar 2 full flare",
+      "title": "Un buen paracaidas",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 13,
+      "mainImage": "assets/images/emergencies/slider-up.jpg",
+      "images": [
+        "assets/images/emergencies/slider-up.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Zahi7zYPhYc"
+      ],
+      "text": "En caso de que el slider este alto usa los mandos para hacer flare y bombear, alternativamente usa los elevadores traseros para bombear",
+      "title": "Slider Alto",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 14,
+      "mainImage": "assets/images/emergencies/cells-off.jpg",
+      "images": [
+        "assets/images/emergencies/cells-off.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/uGYBopThHeQ"
+      ],
+      "text": "En caso de tener celdas desinfladas realizar flare durante 2 o 3 segundos para que estas se inflen",
+      "title": "Celdas desinfladas",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 15,
+      "mainImage": "assets/images/emergencies/line-twist.jpg",
+      "images": [
+        "assets/images/emergencies/line-twist.jpg",
+        "assets/images/emergencies/line-twist-2.jpg",
+        "assets/images/emergencies/line-twist-high-speed.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/wy6zEGmBoTU",
+        "https://www.youtube.com/embed/ZhPtUBLhirg",
+        "https://www.youtube.com/embed/kGDyHxHuUPE"
+      ],
+      "text": "Durante un line twist no sueltes los frenos, toma con fuerza las bandas y patea hacia la dirección contraría al enrollamiento. <br /> Otra forma de hacerlo es juntar las bandas y patear en la misma dirección del enrollamiento para hacer que el enredo se mueva hacia abajo y cuando puedas alcanzar las bandas por encima del enredo úsalas como pivote para deshacer el enredo.",
+      "title": "Enrollamiento o lineas entorchadas (Line Twist)",
+      "type": "low-speed"
+    },
+
+    {
+      "identifier": 17,
+      "mainImage": "assets/images/emergencies/line-over.jpg",
+      "images": [
+        "assets/images/emergencies/line-over.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/TElkG6_J6Os"
+      ],
+      "text": "Esta malfuncion es debido a que una o varias lineas pasan por delante de la naríz del paracaidas durante su despliegue, la única solución para esta malfunción es ejecutar el procedimiento de emergencia",
+      "title": "Linea a través (Line Over)",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 18,
+      "mainImage": "assets/images/emergencies/tension-knots.jpg",
+      "images": [
+        "assets/images/emergencies/tension-knots.jpg",
+        "assets/images/emergencies/tension-knots2.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/p5mU_oXCcBw",
+        "https://www.youtube.com/embed/ySK1JElWUZg"
+      ],
+      "text": "Durante los nudos de tensión se debe realizar flare por 2 o 3 segundos y bombear con las bandas para deshacerlo, si después de 2 intentos no se soluciona realizar el procedimiento de emergencia",
+      "title": "Nudos de tensión (tension knots)",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 19,
+      "mainImage": "assets/images/emergencies/pilot-chute-under.jpg",
+      "images": [
+        "assets/images/emergencies/pilot-chute-under.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/f-02cfKau0o"
+      ],
+      "text": "Esto suele ser un tema de rutina y no suele ser grave pero debes revisar si no existe agresividad en la cupula y si es controlable, en caso de que no lo sea ejecuta el procedimiento de emergencia",
+      "title": "Pilotillo bajo la cupula",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 20,
+      "mainImage": "assets/images/emergencies/canopy-break.jpg",
+      "images": [
+        "assets/images/emergencies/canopy-break.jpg",
+        "assets/images/emergencies/canopy-break2.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/3VMtpM8OvQo",
+        "https://www.youtube.com/embed/Zy0dXzLgkiE"
+      ],
+      "text": "Cuando se produce esta malfuncion el efecto es que tendremos una cupula con una forma inusual y probablemente con movimientos incontrolables, por ello se debe verificar que la cuppula no tenga movimientos erraticos y que sea controlable de lo contrario se debe ejecutar el procedimiento de emergencia inmediatamente",
+      "title": "Cupula rota",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 21,
+      "mainImage": "assets/images/emergencies/lines-break.jpg",
+      "images": [
+        "assets/images/emergencies/lines-break.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/C4fR2VNFtFE"
+      ],
+      "text": "En caso de haber lineas rotas en el paracaidas se debe realizar un chequeo de maniobrabilidad teniendo en cuenta siempre la altura de decision 2500ft, si no pasa el chequeo de maniobrabilidad o tiene movimientos erraticos ejecuta el procedimiento de emergencia",
+      "title": "Lineas rotas",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 22,
+      "mainImage": "assets/images/emergencies/handle-break.jpg",
+      "images": [
+        "assets/images/emergencies/handle-break.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/zYq-VCQG6Lw"
+      ],
+      "text": "Si al revisar el paracaídas se encuentra un mando roto ejecuta el procedimiento de emergencia, en casod e que la linea este rota en el reserva se deben soltar los frenos y maniobrar la cúpula con los elevadores traseros",
+      "title": "Linea de mando rota",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 23,
+      "mainImage": "assets/images/emergencies/block-handle.jpg",
+      "images": [
+        "assets/images/emergencies/block-handle.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/fxMH-uV-EkQ"
+      ],
+      "text": "Cuando los frenos están atascados realiza el procedimiento de emergencia, si el o los frenos atascados son del reserva use los elevadores traseros para dirigir el paracaídas, si es un solo mando atascado compensa con el otro mando envolviendolo en la mano y usar los elevadores traseros para dirigir el paracaídas",
+      "title": "Frenos atascados",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 24,
+      "mainImage": "assets/images/emergencies/free-handle.jpg",
+      "images": [
+        "assets/images/emergencies/free-handle.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/LRdwCITm8Dw"
+      ],
+      "text": "Cuando hay un freno suelto se debe soltar el otro freno y realizar un full flare. <br/> Es posible que la cupula empiece a girar, si esto ocurre usa los elevadores traseros para compensar el giro antes de soltar el otro mando",
+      "title": "Freno suelto",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 25,
+      "mainImage": "assets/images/emergencies/tangled-handle.jpg",
+      "images": [
+        "assets/images/emergencies/tangled-handle.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jTuNv8pGHMU"
+      ],
+      "text": "Lo único que se puede hacer en este caso es intentar deshacer el enredo, teniendo muy presente la altura de decisión 2500ft si no logra deshacer el enredo ejecutar el procedimiento de emergencia",
+      "title": "Frenos enredados",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 26,
+      "mainImage": "assets/images/emergencies/stall.jpg",
+      "images": [
+        "assets/images/emergencies/stall.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/zlL4UwnHRQU"
+      ],
+      "text": "Un stall ocurre cuando se sostiene un full flare por mucho tiempo, esto hace que haya caída nuevamente, lo que se debe hacer es soltar suavemente y de forma simetrica los 2 mandos ya que si no hay una buena recuperación se puede desencadenar un line twist",
+      "title": "Cupula en perdida (Stall)",
+      "type": "low-speed"
+    },
+    {
+      "identifier": 27,
+      "mainImage": "assets/images/emergencies/bi-plane.jpg",
+      "images": [
+        "assets/images/emergencies/bi-plane.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/XLEDYLZIQng"
+      ],
+      "text": "Para esta mal función existen configuraciones diferentes al momento de desplegarse las 2 cupulas; biplano (biplane), lado a lado (side by side), espejo (down plane) y por ultimo un enrollamiento detalles en la sección de datos",
+      "title": "Dos cupulas afuera",
+      "type": "low-speed"
+    }
+  ],
+  "TabInfoEmergency": [
+    {
+      "emergency": 1,
+      "data": [
+        {
+          "id": "description",
+          "text": "Problemas con el empaque",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 2,
+      "data": [
+        {
+          "id": "description",
+          "text": "Problemas con el pin del principal, puede estar muy ajustado o por pasar la brida por algún lugar inadecuado que provocó el atasco",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "En todo momento se debe mantener un buen arco buscando la mejor posición para realizar el procedimiento de emergencia",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 3,
+      "data": [
+        {
+          "id": "description",
+          "text": "Este tipo de problemas con el equipo suelen ser resultado de moverse en exceso o por desconocimiento de las caracteristicas de la aeronave. Si este incidente ocurre con la reserva es potencialmente más peligroso.",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "<b>Prevención:</b> Siempre antes de ponerse el paracaidas realizar el chequeo completo del equipo. <br/> Cada vez que un saltador se apoya contra algo en un avión, su primer instinto al moverse debe ser verificar que no haya nada desalojado o enganchado.",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 4,
+      "data": [
+        {
+          "id": "description",
+          "text": "Este tipo de problemas con el equipo suelen ser resultado de moverse en exceso o por desconocimiento de las caracteristicas de la aeronave",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "<b>Prevención:</b>Se debe ser cautelosos con el equipo en todas las formas posibles, proteger las manijas. Al empacar y hacer verificaciones de engranajes, esto incluiría asegurarse de que tu closing loop esté apretado y tu closing pin este posicionado correctamente. En el avión, esto implicaría hacer todo lo posible para minimizar el roce de su plataforma contra el avión y otros jumpers. Y, lo que es más importante, antes de que se abra la puerta, esto incluiría revisar su equipo y que alguien más lo revise también <br/> <br/> <b>Nota:</b> Si una cupula queda enganchada a la aeronave expone a un potencial peligro a toodos los tripulantes, si la cupula de otra persona queda enganchada si te es posible colapsala y métela dentro del avión.",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 5,
+      "data": [
+        {
+          "id": "description",
+          "text": "Es posible que haya un problema en el empaque y una falta de revisión por parte del jumper",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "<b>Prevencion:</b> Un loop de cierre hermético y controles regulares del equipo pueden ayudar a prevenir un incidente como este",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 6,
+      "data": [
+        {
+          "id": "description",
+          "text": "Falla mecanica del avión",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "<b>Cadena de mando: </b> Piloto => esta al mando de sus pasajeros, Instructores => están al mando de sus alumnos. <br /> <br/> Durante un aterrizaje de emergencia es posible que el avión puede volcarse, mantén la calma y busca salir del avión lo más rápido posible <br/> <b> Nota:</b> Siempre escucha las indicaciones del piloto",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 7,
+      "data": [
+        {
+          "id": "description",
+          "text": "Problemas en el empaque, falta de revisión del equipo antes de saltar, es importante <b style='color:red'>siempre realizar el chequeo de las manijas </b> antes de ponerse el paracaídas",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "Malfuncion poco frecuente",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 8,
+      "data": [
+        {
+          "id": "description",
+          "text": "Problemas en el empaque, es una malfunción muy inusual y ocurre cuando una de las pestañas de empaque se enreda con una banda de cierre de la bolsa de despliegue ",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "Malfuncion inusual",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 9,
+      "data": [
+        {
+          "id": "description",
+          "text": "Puede originarse por un daño en la cupula, un mal empaque, un enredo durante la apertura o un enganche del slider",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "----",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 10,
+      "data": [
+        {
+          "id": "description",
+          "text": "Puede originarse por una mala posición durante la apertura o porque se abre el contendor principal y el pilotillo se mantiene en su lugar. ",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "La Asociación Australiana de Paracaidismo indica que se debe realizar el procedimiento de emergencia, pero en el caso donde el pilotillo no ha salido de su lugar y la bolsa está afuera es bueno halar el pilotillo para dar opción de que el paracaidas abra correctamente, esto porque al estar el contendor fuera hay una alta probabilidad de que la reserva se enrede con la bolsa o alguna linea del principal que se encuentra fuera en ese momento, es cierto que en el procedimiento de emergencia se libera el principal pero aún así puede no desprenderse por completo o no hacerlo a tiempo como para que salga limpia la reserva. <br /><br /> Si el pilotillo se enreda con alguna parte del cuerpo y notas que es posible desenredarlo intentalo <br /><br /> <b style='color:red'>Ten presente siempre la altura, en una malfuncion de alta velocidad no se cuenta con mucho tiempo, si no ves la solución rapidamente no tardes y libera! </b> <br /> <br /> Nota: Si luego de una herradura despliegas la reserva y el principal se queda enredado si es posible traelo hacia ti para evitar que se infle, en caso de que ya esté inflado intenta hacer que se suelte, si es necesario y tienes cuchillo cortalo!",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 11,
+      "data": [
+        {
+          "id": "description",
+          "text": "Problema durante el despliegue del pilotillo debido a que no se arroja hacia un costado de manera adecuada",
+          "header": "Causas"
+        },
+        {
+          "id": "data-sheet",
+          "text": "Esta es una de las pocas malfunciones de alta velocidad que pueden solucionarse de manera sencilla",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 12,
+      "data": [
+        {
+          "id": "description",
+          "text": "Lo primero a tener en cuenta para tener un buen paracaídas es realizar un buen proceso de apertura <br /> <br /> <ol><li>wave (despedirse)</li><li>arch (arco)</li><li>rich (alcanzar)</li><li>pull (tirar)</li><li>conteo 3 segundos y realizar control</li></ol><br /> Después de la apertura se debe realizar la inspección de un buen paracaídas <br /> <br /> <ol>\t<li>El paracaídas esta ahí y vuela derecho, no hay giros durante el vuelo</li>\t<li>Su forma es rectangular</li>\t<li>El slider está a mitad de camino o más abajo</li>\t<li>No hay enredos</li>\t<li>El paracaídas abre frenado por lo que hay que liberar los mandos</li>\t<li>Realizar 2 full flare para solucionar temas de rutina</li>\t<li>Chequeo maniobrabilidad, revisar Altura, posición, trafico (no hay paracaidistas cerca), mangabeleta (dirección del viento) y realizar un giro a la izquierda, repetir el proceso pero realizando el giro a la derecha</li></ol>",
+          "header": "Descripción"
+        }
+      ]
+    },
+    {
+      "emergency": 13,
+      "data": [
+        {
+          "id": "description",
+          "text": "Esto suele ser un problema de rutina y suele corregirse con facilidad, siempre debe realizarse un chequeo de maniobrabilidad y determinar si es posible aterrizar con seguridad, en caso contrario ejecutar procedimiento de emergencia",
+          "header": "Descripción"
+        }
+      ]
+    },
+    {
+      "emergency": 14,
+      "data": [
+        {
+          "id": "description",
+          "text": "Esto suele ser un problema de rutina y suele corregirse con facilidad, siempre debe realizarse un chequeo de maniobrabilidad y determinar si es posible aterrizar con seguridad, en caso contrario ejecutar procedimiento de emergencia",
+          "header": "Descripción"
+        }
+      ]
+    },
+    {
+      "emergency": 15,
+      "data": [
+        {
+          "id": "description",
+          "text": "Si quieres reducir las posibilidades de un line twist debes hacer varias cosas: <br/><br/> <ol>\n\t<li>Revisar el estado de las lineas del equipo para evitar su desgaste prematuro</li>\n\t<li>Chequear el estado de la brida y el pilotillo</li>\n\t<li>Realizar empaques lo más simetricos posibles</li>\n\t<li>Verificar que la distancia de las lineas donde se ponen los cauchos sea simetrica y que todos los cauchos tengan el mismo número de vueltas</li>\n\t<li>Al ponerse el paracaídas verificar que las correas de pierna estén ajustadas simetricamente</li>\n</ol> <br/> En caso de que el line twist va acompañado de giros en el vuelo de la cupula, dependiendo de la velocidad es posible experimentar una fuerza G lo suficientemente fuerte como para incapacitar al paracaidista en algunos giros, antes de que esto suceda la mejor opción es realizar el procedimiento de emergencia",
+          "header": "Descripción"
+        },
+        {
+          "id": "data-sheet",
+          "text": "Existen 2 tiempos en los que podría generarse un line twist, el primer es cuando la cupula se abre y directamente encuentras el line twist, el segundo cuando la cupula abre y no hay line twist pero éste se produce durante el proceso de presurización. En el último caso una buena idea es que en el momento que empiecen a presentarse los giros usar nuestro cuerpo para acompañar el giro del paracaídas y no en contra del giro con eso reducimos la posibilidad de que se produzca el line twist. <br/><br/> Otro tip que ppuede funcionar es intentar retorcer las lineas en el sentido contrario para hacer que el enrede bajo hasta nosotros y así sea más fácil deshacerlo <a style='color:blue' href='https://www.youtube.com/watch?v=3r7dU3bWts0' >En este video hay más detalles</a>",
+          "header": "Datos"
+        }
+      ]
+    },
+    {
+      "emergency": 18,
+      "data": [
+        {
+          "id": "description",
+          "text": "Un nudo de tensión podría producirse por una apertura prematura, fuera de secuencia o inusual por ello una buena posición de apertura es esencial. <br/> Recuerda tener presente en todo momento la altura, la altura de decisión es de 2500ft y estar preparado para ejecutar el procedimiento de emergencia",
+          "header": "Descripción"
+        }
+      ]
+    },
+    {
+      "emergency": 20,
+      "data": [
+        {
+          "id": "description",
+          "text": "Cuando la cupula se rompa en ocasiones es debido a una apertura de cabeza o una mala posición al abrir o debido al desgaste de la tela <br/> <b> Si ves el cielo a través de la cupula realizar procedimiento de emergencia de inmediato!</b>",
+          "header": "Descripción"
+        }
+      ]
+    },
+    {
+      "emergency": 21,
+      "data": [
+        {
+          "id": "description",
+          "text": "Cuando las se rompen en ocasiones es debido a una apertura de cabeza o una mala posición al abrir o debido al desgaste de las mismas. <br/> <b> Las lineas rotas pueden aumentar la velocidad de descenso del paracaidas!</b>",
+          "header": "Descripción"
+        }
+      ]
+    },
+    {
+      "emergency": 23,
+      "data": [
+        {
+          "id": "description",
+          "text": "Es necesario revisar bien cuando se frena el paracaídas durante el empaque ya que puede ser una de las razones por la cual se genera esta mal función",
+          "header": "Descripción"
+        }
+      ]
+    },
+    {
+      "emergency": 27,
+      "data": [
+        {
+          "id": "description",
+          "text": "Una de las causas más comunes de esta mal funcion es realizar una apertura baja, cuando el AAD se activa mientras se está desplegando el principal o si el pin de reserva está mal posicionado",
+          "header": "Descripción"
+        },
+        {
+          "id": "data-sheet",
+          "text": "Las acciones a tomar en cada una de estas situaciones son las siguientes: <ol>\n\t<li>\n\t\tBiplano (biplane): <br/>\n\t\tEn este caso se dirige la cúpula que se encuentra adelante, se pueden usar los mandos pero es mejor usar elevadores traseros, no se deben soltar los frenos de la cupula que va atrás.\n\t\tCuando llegue el momento del acercamiento final hay que prepararse para un PLF sin hacer flare, ya que esto haría más fuerte el aterrizaje, se llevan 2 cúpulas infladas por tanto hay más sustentación.<br/>\n\t\tsiempre se debe buscar una zona de aterrizaje segura y tener especial atención en un vuelo biplano para no perder el rumbo.\n\t</li>\n\t<li>\n\t\tLado a Lado (Side by Side) : <br/>\n\t\tEn este caso se debe dirigir la cúpula dominante que normalmente es la que esta sobre la cabeza del paracaidista, para ello se pueden usar los mandos suavemente a medio freno pero es una mejor opción dejarlos frenados y usar los elevadores traseros, no se deben soltar los frenos de la otra cúpula <br/>\n\t\tCuando llegue el momento del acercamiento final hay que prepararse para un PLF sin hacer flare, ya que esto haría más fuerte el aterrizaje, se llevan 2 cúpulas infladas por tanto hay más sustentación.<br/>\n\t\tAquí se puede revisar si no están enredadas las lineas entre los 2 paracaídas, en cuyo caso se puede desconectar el RSL y liberar el principal\n\t</li>\n\t<li>\n\t\tEspejo (Downplane): <br/>\n\t\tEsta configuración es de las más peligrosas, debido a que se cae con una gran velocidad hacia el suelo, en este caso realiza procedimiento de emergencia inmediatamente sin importar la altura. <br/>\n\t\tIntentar aterrizar con un DOWN PLANE puede provocar lesiones graves e incluso la muerte.\n\t</li>\n\t<li>...</li>\n</ol>",
+          "header": "Datos"
+        }
+      ]
+    }
+  ]
+}
