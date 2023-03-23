@@ -8,8 +8,7 @@ type MenuProps = {
 const Menu: React.FC<MenuProps> = ({ title }) => {
   return (
       <ul className="nav navbar-nav navbar-right">
-          <MenuItem title={'title'} />
-          <MenuItem title={'title2'} />
+          <MenuItem title={title} />
       </ul>
   )
 }

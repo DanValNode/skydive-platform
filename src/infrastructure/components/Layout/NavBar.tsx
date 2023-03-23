@@ -19,7 +19,7 @@ const NavBar: React.FC<NavBarProps> = ({ title }) => {
                     </button>
                 </div>
                 <div className="collapse navbar-collapse" id="custom-collapse">
-                    <Menu title={''} />
+                    <Menu title={'Home'} />
                 </div>
             </div>
         </nav>
